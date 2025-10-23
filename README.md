@@ -29,11 +29,6 @@ JavaScript (jQuery) – Dynamic behavior and user interaction
 
 🎮 How to Use
 
-Clone the repository:
-
-git clone https://github.com/yourusername/3D-Solar-System-Using-Javascript.git
-
-
 Open the project folder and launch the index.html file in your browser.
 
 Use the control buttons to switch between 2D/3D views, zoom in/out, or adjust speed.
